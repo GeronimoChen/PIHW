@@ -1,6 +1,6 @@
 # The Code Repository for the paper "Convolution Operator Network for Forward and Inverse Problems (FI-Conv): Application to Plasma Turbulence Simulations"
 
-This is the code repository for the FI-Conv. 
+This is the code repository for the FI-Conv, paper link https://arxiv.org/abs/2602.04287. 
 
 Please download the pre-trained neural network from [https://www.kaggle.com/models/geronimoestellarchen/pihw_network](https://www.kaggle.com/models/geronimoestellarchen/pihw_network), and store the "PICNX.pt" file into the directory "OperatorSaverPIC3XFL/lr0.0003/" before running the code.  
 
